@@ -20,4 +20,3 @@ AugmentData = Sequential(
     name = 'AugmentData'
 )
 AugmentData.layers[0].adapt(x_train)
-
